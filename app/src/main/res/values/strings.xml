@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wild Kingdom</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_title_golden_lion_tamarin">Golden Lion Tamarin</string>
+    <string name="txt_title_description">Description:</string>
+    <string name="txt_description_golden_lion_tamarin">The golden lion tamarin is a small, squirrel-sized monkey, about 20-26 cm long with a 35 cm tail and long golden lion-like mane. It is covered in long silky golden fur. The face, hands and feet remain bare. The feet have sharp claws (most other primates have nails) that are useful for gripping and climbing branches and also for grabbing their insect meals.</string>
+    <string name="txt_title_habitat">Habitat:</string>
+    <string name="txt_habitat">Tropical rainforest</string>
+    <string name="btn_title_continue">Next</string>
+    <string name="txt_title_red_panda">Red Panda</string>
+    <string name="txt_habitat_red_panda">Temperate forest, woodland</string>
+    <string name="txt_description_red_panda">The red panda\'s fur is long, thick and fuzzy to protect it against rain and cold in its mountainous habitat at up to 5000m altitude. Its colour helps the panda to blend with the reddish moss and white lichen growing on fir trees. These pandas have fur on the soles of their feet to aid grip on wet branches and to keep them warm when walking on snow. They are 50 - 60 cm long and weigh between three and six kgs.</string>
+    <string name="txt_title_black_marsh_turtle">Black Marsh Turtle</string>
+    <string name="txt_habitat_black_marsh_turtle">Freshwater, tropical rainforest</string>
+    <string name="txt_description_black_marsh_turtle">They are almost all black, with several white markings on their heads. The eyes are outlined in white but adult males lose these white markings. The feet are fully webbed. It is a small turtle that rarely reaches 20 cm.</string>
+    <string name="txt_title_partula_snail">Partula Snail</string>
+    <string name="txt_habitat_partula_snail">Tropical rainforest</string>
+    <string name="txt_description_partula_snail">Polynesian tree snails are endemic to many of the volcanic islands of the South Pacific. They have an enormous geographical range, from Belau, east of the Philippines, to the Marquesas Islands. Partula fabawas first discovered in 1769 by Joseph Banks and others during the first voyage of the endeavour. It is a small spiral-shelled land snail and is around 20 mm in length. Like other snails, they can retract their bodies inside their shells.</string>
+    <string name="txt_title_south_american_fur_seal">South American Fur Seal</string>
+    <string name="txt_habitat_south_american_fur_seal">Coast, Ocean</string>
+    <string name="txt_description_south_american_fur_seal">The fur seals belong to the same family as sea lions (Otariidae, meaning eared seals). They are more agile on land than the \'earless\' seals as they can move their hind limbs forward underneath their body which is raised as they move. Using their front and hind flippers alternately, they can move almost at a gallop on land. In the water, the front flippers are used in a rowing movement but the rear flippers are either not used at all or are used as a rudder.</string>
+    <string name="txt_description_chupacabra">Is a legendary cryptid rumored to inhabit parts of the Americas, with the first sightings reported in Puerto Rico.[1] The name comes from the animal\'s reported habit of attacking and drinking the blood of livestock, especially goats.Physical descriptions of the creature vary. It is purportedly a heavy creature, the size of a small bear, with a row of spines reaching from the neck to the base of the tail.</string>
+    <string name="txt_habitat_chupacabra">Anywhere or Behind you</string>
+    <string name="txt_title_chupacabra">Chupacabra</string>
+
+</resources>
